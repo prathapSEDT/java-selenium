@@ -1,0 +1,13 @@
+{
+  "env": "QA",
+  "QA": {
+    "baseurl": "https://fruitshop2-predic8.azurewebsites.net",
+    "weburl": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
+  },
+  "UAT": {
+    "baseurl": "https://fruitshop2-predic8.azurewebsites.net"
+  },
+  "IT": {
+    "baseurl": "https://fruitshop2-predic8.azurewebsites.net"
+  }
+}

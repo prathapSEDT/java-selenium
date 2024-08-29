@@ -1,0 +1,5 @@
+{
+  "getProducts": "/shop/v2/products",
+  "getProductsById": "/shop/v2/products/{id}",
+  "createVendor": "/shop/v2/vendors"
+}
